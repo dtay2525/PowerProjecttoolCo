@@ -1,0 +1,74 @@
+.products4{
+	position: absolute;
+	bottom: -900px;
+	left: 410px;
+	border: solid;
+	border-color:#fc8403;
+}
+
+.contact {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 50%;
+  position: absolute;
+  bottom: -1300px;
+  right: 450px;
+
+}
+
+table, th, td {
+  border: 1px solid;
+  border-color:#fc8403;
+}
+
+tr:hover {background-color: coral;}
+
+.radio{
+	font-size: 15px;
+	position: relative;
+	top:-70px;
+	right: -105px;
+
+}
+
+#age1{
+	font-size: 15px;
+	position: relative;
+	top:-85px;
+	right: -150px;
+}
+
+.age1{
+	font-size: 15px;
+	position: relative;
+	top:-85px;
+	right: -150px;
+}
+
+#age2{
+	font-size: 15px;
+	position: relative;
+	top:-80px;
+	right: -150px;
+}
+
+.age2{
+	font-size: 15px;
+	position: relative;
+	top:-80px;
+	right: -150px;
+}
+
+#age3{
+	font-size: 15px;
+	position: relative;
+	top:-75px;
+	right: -150px;
+}
+
+.age3{
+	font-size: 15px;
+	position: relative;
+	top:-75px;
+	right: -150px;
+}
